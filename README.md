@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GrogMaster
+- 👀 I’m interested in Java, C++ and Python development
+- 🌱 I’m currently learning Java and C++
+- 💞️ I’m looking to collaborate with CoralMC Minecraft server
+- 📫 How to reach me --> Discord: ~Sergione#2379 
