@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)]
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm GrogMaster</h1>
 <h3 align="center">A passionate developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2b/04/58/2b04585d71e505ac102a73579361192e.gif">
+<img align="right" alt="Cat" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
 
 - 👀 I’m interested in **Java, C++ and Python development**
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with [CoralMC Team](https://www.coralmc.it/)
 
-- 📫 How to reach me --> **Discord:** ~Sergione#2379 
+- 📫 How to reach me --> **Discord: ~Sergione#2379**
 
 
 <h3 align="left">Languages and Tools:</h3>
