@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from Italy</h3>
 <img align="right" alt="Cat" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
 
-- 👀 I’m interested in **Java, C++ and Python development**
+- 👀 I’m interested in **Java, C/C++ development**
 
-- 🌱 I’m currently learning **Java and C++**
+- 🌱 I’m currently learning **Solidity and C/C++**
 
 - 👯 I’m looking to collaborate with [CoralMC Team](https://www.coralmc.it/)
 
